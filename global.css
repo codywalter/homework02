@@ -1,0 +1,25 @@
+.primary-header {
+  height: 68px;
+  background-color: white;
+}
+.logo {
+  background-color: rgb(1, 168, 168);
+  float: left;
+  padding: 10px;
+  margin: 0 40px;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 600;
+}
+.justify-content-end .nav-item {
+  padding: 15px;
+}
+.primary-footer {
+  text-align: center;
+  padding-bottom: 44px;
+  padding-top: 44px;
+  background-color: grey;
+  border-top: 10px;
+  border-top-color: rgb(1, 168, 168);
+  border-top-style: solid;
+}
