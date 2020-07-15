@@ -1,6 +1,9 @@
 .primary-header {
   height: 68px;
   background-color: white;
+  border-bottom: grey;
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
 }
 .logo {
   background-color: rgb(1, 168, 168);
@@ -12,7 +15,7 @@
   font-weight: 600;
 }
 .justify-content-end .nav-item {
-  padding: 15px;
+  margin: 15px;
 }
 .primary-footer {
   text-align: center;

@@ -1,0 +1,16 @@
+.contact-line {
+  border: 0;
+  height: 3px;
+  background: lightgrey;
+  margin-left: 35px;
+  margin-right: 35px;
+  width: 950px;
+}
+.contact-header {
+  margin: 20px 35px;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(1, 168, 168);
+}
+form {
+  padding: 20px;
+}
